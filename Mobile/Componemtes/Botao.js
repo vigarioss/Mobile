@@ -13,7 +13,7 @@ export function Botao(props) {
 
 const styles = StyleSheet.create({
   botao: {
-    backgroundColor: '#007bff',
+    backgroundColor: '#000',
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,
